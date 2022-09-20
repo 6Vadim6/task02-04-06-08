@@ -18,4 +18,4 @@ int Factorial(int num)
     return num;
 }
 
-Console.WriteLine($"{number} -> {Factorial()}");
+Console.WriteLine($"{number} -> {Factorial(number)}");
